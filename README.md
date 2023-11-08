@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R4YL0
 - 👀 I’m interested in Coding/Gaming/Music
-- 🌱 I’m currently learning JAVA as an CSE Student
+- 🌱 I’m currently learning JS/TS, C as an CSE Student
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @K0RDS on IG or @K0RDS_Artist on Twitter
 
