@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @R4YL0
 - 👀 I’m interested in Coding/Gaming/Music
-- 🌱 I’m currently learning Haskell, Python as an CSE Student in my Bachelor
-- 💞️ I know Java, JS/TS, C, C++, as well as some Haskell, Python
+- 🌱 I’m currently learning the PLs Haskell, Python, SQL as a CS Student in my Bachelor
+- 💞️ I know Java, JS/TS, C, C++, as well as some Haskell, Python, SQL
 - 📫 You can reach me @K0RDS on IG
 
 <!---
